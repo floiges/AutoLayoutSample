@@ -1,1 +1,2 @@
 #AutoLayoutSample
+利用代码的方式设置AutoLayout
